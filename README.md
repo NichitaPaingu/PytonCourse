@@ -8,3 +8,7 @@
 - [lw_2.ipynb](./Lab_works/lw_2.ipynb)
 - [lw_3.ipynb](./Lab_works/lw_3.ipynb)
 
+### Individual_work
+
+- [my_iw.ipynb](./individual_work/my_iw.ipynb)
+
